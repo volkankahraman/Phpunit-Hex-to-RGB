@@ -1,0 +1,8 @@
+{
+	"require": {
+		"phpunit/phpunit": "^9.3"
+	},
+	"autoload": {
+		"classmap": [ "app/" ]
+	}
+}
